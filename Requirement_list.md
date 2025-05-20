@@ -1,5 +1,5 @@
 # 52032
-https://github.com/jajady/SE_hw2.git
+https://github.com/jajady/SE_hw2
 
 
 | No. | Requirement | Use Case                    |
